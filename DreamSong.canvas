@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ad29f7a389cb8f58","type":"file","file":"MathematicalPrinciples/TaylorExpansion/TaylorExpansion.gif","x":-360,"y":280,"width":400,"height":225},
+		{"id":"d19903d14351dc20","type":"file","file":"MathematicalPrinciples/Synergy/Synergy.gif","x":-360,"y":600,"width":400,"height":225},
+		{"id":"f9cba150ea664d73","type":"file","file":"MathematicalPrinciples/Hyperobject/Hyperobject.pdf","x":-360,"y":900,"width":400,"height":400},
+		{"id":"035d6e1bddaa2660","type":"file","file":"MathematicalPrinciples/LinearSystems/LinearSystems.gif","x":-360,"y":-20,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"cea6df650e7a647b","fromNode":"035d6e1bddaa2660","fromSide":"bottom","toNode":"ad29f7a389cb8f58","toSide":"top"},
+		{"id":"162c2d73288c7c7a","fromNode":"ad29f7a389cb8f58","fromSide":"bottom","toNode":"d19903d14351dc20","toSide":"top"},
+		{"id":"a908661a2f93d4d7","fromNode":"d19903d14351dc20","fromSide":"bottom","toNode":"f9cba150ea664d73","toSide":"top"}
+	]
+}

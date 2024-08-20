@@ -1,3 +1,15 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "Synergy"]
+	path = Synergy
+	url = https://github.com/InterfaceGuy/Synergy.git
+[submodule "LinearSystems"]
+	path = LinearSystems
+	url = https://github.com/InterfaceGuy/LinearSystems.git
+[submodule "Hyperobject"]
+	path = Hyperobject
+	url = https://github.com/InterfaceGuy/Hyperobject.git
+[submodule "TaylorExpansion"]
+	path = TaylorExpansion
+	url = https://github.com/InterfaceGuy/TaylorExpansion.git

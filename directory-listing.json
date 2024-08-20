@@ -1,0 +1,43 @@
+{
+  "index.html": null,
+  "README.md": null,
+  "MathematicalPrinciples.sublime-project": null,
+  "DreamSong.canvas": null,
+  "MathematicalPrinciples.sublime-workspace": null,
+  "TaylorExpansion": {
+    "TaylorExpansion.sublime-project": null,
+    "TaylorExpansion.key": null,
+    "README.md": null,
+    "TaylorExpansion.py": null,
+    "TaylorExpansion.gif": null,
+    "TaylorExpansion.sublime-workspace": null,
+    "DreamSongUI": {
+      "styles.css": null,
+      "update_submodules.py": null,
+      "README.md": null,
+      "linearFlowCanvas.js": null,
+      "LinearSystems": {
+        "LinearSystems.gif": null,
+        "README.md": null,
+        "LinearSystems.png": null,
+        "LinearSystems.key": null,
+        "Synergy": {
+          "Synergy.key": null,
+          "README.md": null,
+          "Synergy.gif": null,
+          "Hyperobject": {
+            "Hyperobject.py": null,
+            "Hyperobject.c4d": null,
+            "README.md": null,
+            "Hyperobject.pdf": null
+          }
+        }
+      }
+    }
+  },
+  "DreamSongUI": {},
+  "LinearSystems": {},
+  "Synergy": {},
+  "Hyperobject": {},
+  "parent_directory": "MathematicalPrinciples"
+}
